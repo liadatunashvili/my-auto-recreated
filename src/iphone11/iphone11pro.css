@@ -1,0 +1,277 @@
+@media only screen and (device-width: 375px) and (device-height: 812px) and (-webkit-device-pixel-ratio: 3) {
+  .searchResult {
+    height: 2050px;
+    width: 375px;
+    left: 0px;
+    top: 0px;
+    border-radius: 0px;
+    background: #ffffff;
+    position: relative;
+  }
+
+  header {
+    position: sticky;
+    position: relative;
+    width: 375px;
+    height: 80px;
+    left: 0px;
+    top: 0px;
+  }
+  .logo {
+    position: sticky;
+    position: absolute;
+    left: 16px;
+    right: 34.21%;
+    bottom: 33.61%;
+  }
+
+  .Group33738 {
+    position: absolute;
+    width: 420px;
+    height: 2440px;
+    left: 0px;
+    top: 82px;
+    background: #f6f2f2;
+  }
+
+  .gancxadebebisraodenoba {
+    font-family: TBCXRegular;
+    font-size: 12px;
+    font-weight: 540;
+    line-height: 14px;
+    letter-spacing: 0px;
+    text-align: left;
+    position: absolute;
+    width: auto;
+    height: 10px;
+    top: 25px;
+    left: 8px;
+    font-style: normal;
+  }
+
+  .sortMethod {
+    border-radius: 8px;
+    padding: 0px 0px 0px 6px;
+    background: linear-gradient(0deg, #e9e9f0, #e9e9f0),
+      linear-gradient(0deg, #ffffff, #ffffff);
+    border: 1px solid #e9e9f0;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    gap: 4px;
+    font-size: 12px;
+    position: absolute;
+    width: 144.2px;
+    height: 36px;
+    left: 235px;
+    top: 15px;
+    background: #ffffff;
+    border: 1px solid #e9e9f0;
+  }
+
+  .filterMethod {
+    height: 36px;
+    width: 90.36px !important;
+    left: 120px !important;
+    top: 15px;
+    border-radius: 8px;
+    padding: 0px 0px 0px 6px;
+    background: linear-gradient(0deg, #e9e9f0, #e9e9f0),
+      linear-gradient(0deg, #ffffff, #ffffff);
+    box-sizing: border-box;
+    font-size: 12px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    gap: 4px;
+    position: absolute;
+    background: #ffffff;
+    border: 1px solid #e9e9f0;
+    border-radius: 8px;
+  }
+  .row {
+    width: auto;
+    position: relative;
+    left: -1080px;
+    margin-bottom: 250px;
+    background-color: #f6f2f2;
+    margin-bottom: 80%;
+  }
+
+  .Frame33518 {
+    width: auto;
+    position: relative;
+    height: 700px;
+    border-radius: 16px;
+    left: 0%;
+    right: 0%;
+    top: 0%;
+    bottom: 0%;
+    background: #ffffff;
+    border-radius: 16px;
+  }
+  .img {
+    height: 233px;
+    width: 343.2px;
+    left: 410px;
+    top: 0px;
+    border-radius: 16px;
+  }
+  .img-fluid {
+    position: absolute;
+    border-radius: 16px;
+  }
+  .carname {
+    position: absolute;
+    height: 17px;
+    width: 224px;
+    left: 423px;
+    top: -45px;
+    border-radius: nullpx;
+    font-family: Helvetica Neue LT GEO;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 17px;
+    letter-spacing: 0px;
+    text-align: left;
+    color: #272a37;
+    font-style: normal;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+  }
+  .pricebox {
+    height: 28px;
+    width: 100px;
+    left: 422px;
+    top: -21px;
+    border-radius: 0px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: auto;
+    gap: 4px;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+  }
+
+  .price {
+    position: absolute;
+    size: 16px;
+    width: 68px;
+    left: 0px;
+    top: 2px;
+    border-radius: nullpx;
+    font-family: "TBC Sailec";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 20px;
+    color: #272a37;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    text-align: left;
+  }
+
+  .details {
+    top: 300px;
+  }
+
+  .date {
+    top: 228px;
+    left: 220px;
+    width: 100%;
+  }
+
+  .views {
+    width: 100%;
+    left: 150px;
+    top: 228px;
+  }
+  .view-dot.date {
+    width: 100%;
+    left: 150px;
+    top: 228px;
+  }
+  .ddetails {
+    left: 430px;
+  }
+
+  .cdetails {
+    left: 212px;
+  }
+  .adetails {
+    left: 430px;
+  }
+  .shetanxmebit {
+    position: relative;
+    left: 50px;
+    font-size: 15px;
+  }
+
+  .ganbajeba-drosha-qveyana {
+    top: -15px;
+    left: 650px;
+  }
+
+  .flag {
+    top: 377px;
+    left: -10px;
+  }
+
+  .location {
+    top: 370px;
+    left: 669px;
+  }
+  .threeIcons {
+    top: 35px;
+    left: 670px;
+  }
+  .pencil {
+    display: none;
+  }
+  .carr {
+    display: none;
+  }
+  .heart {
+    background: rgba(39, 42, 55, 0.75);
+
+    width: 30px !important;
+    height: 30px !important;
+    right: 10px;
+  }
+  .icon {
+    border: white;
+    fill: white;
+  }
+  .pages {
+    left: 7px;
+    top: 2550px;
+    display: flex;
+    width: 100%;
+
+    justify-content: space-around;
+  }
+  .iphonefilter {
+    position: absolute;
+    display: block;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    top: 25px;
+    left: 300px;
+    height: 32px;
+    width: 83px;
+    border-radius: 100px;
+    padding: 8px 12px 10px 12px;
+    background: rgb(253, 65, 0);
+    text-align: center;
+    color: black;
+    font-weight: 500;
+  }
+}

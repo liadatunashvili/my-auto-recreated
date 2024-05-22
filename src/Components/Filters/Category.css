@@ -1,0 +1,12 @@
+.checkbox-container3 {
+  position: absolute;
+  z-index: 9999;
+  max-height: 200px;
+  overflow-y: auto;
+  background-color: white;
+  width: 240px;
+}
+
+.scrollable-checkbox2 {
+  padding: 8px;
+}

@@ -1,0 +1,10 @@
+.checkbox-container {
+  position: absolute;
+  z-index: 9999;
+  height: 200px;
+  overflow-y: auto;
+  background-color: white;
+  width: 240px;
+  border-radius: 5px;
+  margin-top: 15px;
+}

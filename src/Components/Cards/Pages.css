@@ -1,0 +1,30 @@
+.pages {
+  background-color: #ffffff !important;
+  width: 780px;
+  height: 40px;
+  left: 708px;
+  border-radius: 10px;
+  top: 1200px;
+  display: flex; /* To align the buttons in a row */
+  justify-content: space-around; /* To spread the buttons evenly */
+  align-items: center; /* To center the buttons vertically */
+  padding: 0 10px; /* To prevent the buttons from sticking to the edges */
+  overflow: hidden; /* To handle the "..." when there are more than 7 pages */
+}
+
+.buttons {
+  border: none; /* To remove the default button border */
+  background: none; /* To remove the default button background */
+  font-size: 16px; /* To adjust the font size */
+  color: gray; /* The default color for buttons */
+  cursor: pointer; /* To change the cursor to a hand when hovering over the button */
+  transition: color 0.3s ease; /* To animate the color change */
+}
+
+.buttons.active {
+  color: red; /* The color for the active page button */
+}
+
+.cursor-pointer {
+  cursor: pointer;
+}

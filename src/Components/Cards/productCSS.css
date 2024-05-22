@@ -1,0 +1,737 @@
+.Frame33518 {
+  position: relative;
+  left: 17px;
+  right: 0%;
+  top: 0px;
+  bottom: 0%;
+
+  /* primary/white */
+
+  background: #ffffff;
+
+  height: 172px;
+  width: 780px;
+  border-radius: 14px;
+}
+
+.img {
+  position: absolute;
+  margin-top: 13px;
+  margin-left: 12px;
+  margin-bottom: 15px;
+  margin-right: 586px;
+  height: 144px;
+  width: 182px;
+  left: -4px;
+  top: -3px;
+}
+
+.img-fluid {
+  position: absolute;
+  border-radius: 8px;
+}
+
+.carname {
+  position: absolute;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0px;
+  gap: 8px;
+
+  position: absolute;
+  width: 282px;
+  left: 210px;
+  top: 9.3%;
+  bottom: 80.81%;
+}
+
+.forRent {
+  display: inline-block;
+  background-color: #1eb676;
+  height: 20px;
+  font-weight: bold;
+  width: 80px;
+  border-radius: 4px;
+  font-size: 12px;
+  color: white;
+  text-align: center;
+  line-height: 20px; /* Aligns text to the center vertically */
+}
+
+.model {
+  position: absolute;
+  width: 230px;
+  height: 17px;
+
+  font-family: "Helvetica Neue LT GEO";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 17px;
+  /* identical to box height */
+
+  /* text/black 800 */
+
+  color: #272a37;
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+}
+
+.year {
+  position: absolute;
+
+  width: 44px;
+  height: 17px;
+
+  font-family: "Helvetica Neue LT GEO";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 17px;
+  /* identical to box height */
+
+  /* text/black 500 */
+
+  color: #8c929b;
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 1;
+  flex-grow: 0;
+}
+
+.details {
+  position: absolute;
+  width: 396px;
+  height: 49.5px;
+  left: 210px;
+  top: 57px;
+}
+
+.adetails {
+  position: absolute;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 0px;
+  gap: 12px;
+
+  position: absolute;
+  left: 0%;
+  right: 54.04%;
+  top: 0%;
+  bottom: 63.64%;
+}
+
+.motor {
+  position: absolute;
+  height: 16px;
+  width: 16px;
+  left: 0px;
+  top: 1px;
+  border-radius: 0px;
+  padding: 2px 0px 2px 0px;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 2px 0px;
+  gap: 10px;
+
+  width: 16px;
+  height: 16px;
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+}
+
+.a {
+  position: absolute;
+  font-family: TBC Sailec;
+  font-size: 12px;
+  font-weight: 500;
+  line-height: 12px;
+  letter-spacing: 0px;
+  text-align: left;
+
+  width: 154px;
+  height: 13px;
+  top: 2px;
+  left: 28px;
+
+  font-family: "TBC Sailec";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 12px;
+  line-height: 12px;
+  display: flex;
+  align-items: flex-end;
+
+  /* text/black 900 */
+
+  color: #1b1d25;
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 1;
+  flex-grow: 0;
+}
+
+.bdetails {
+  position: absolute;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 0px;
+  gap: 12px;
+
+  position: absolute;
+  left: 54.04%;
+  right: 0%;
+  top: 0%;
+  bottom: 63.64%;
+}
+
+.garbeni {
+  height: 14px;
+  width: 14px;
+  left: 1px;
+  top: 1px;
+  border-radius: 0px;
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+}
+
+.b {
+  height: 28px;
+  width: 154px;
+  left: 28px;
+  top: 2.5px;
+  border-radius: nullpx;
+  font-family: "TBC Sailec";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 12px;
+  line-height: 12px;
+  display: flex;
+  align-items: flex-end;
+
+  /* text/black 900 */
+
+  color: #1b1d25;
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 1;
+  flex-grow: 0;
+}
+
+.cdetails {
+  position: absolute;
+  height: 16px;
+  width: 182px;
+  left: 0px;
+  top: 33px;
+  border-radius: 0px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 0px;
+  gap: 12px;
+
+  position: absolute;
+  left: 0%;
+  right: 54.04%;
+  top: 66.67%;
+  bottom: 1.01%;
+}
+
+.avtomatika {
+  position: absolute;
+  height: 16px;
+  width: 12px;
+  left: 2px;
+  top: 0px;
+  border-radius: [object Object]px;
+  border-width: 0px, 0px, 0px, 0px;
+
+  border-color: #8c929b;
+  width: 12px;
+  height: 16px;
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 1;
+  flex-grow: 0;
+}
+
+.c {
+  position: absolute;
+  height: 13px;
+  width: 154px;
+  left: 28px;
+  top: 1.5px;
+  border-radius: nullpx;
+  font-family: "TBC Sailec";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 12px;
+  line-height: 12px;
+  display: flex;
+  align-items: flex-end;
+
+  /* text/black 900 */
+
+  color: #1b1d25;
+
+  flex: none;
+  order: 1;
+  flex-grow: 0;
+}
+
+.ddetails {
+  position: absolute;
+  height: 16px;
+  width: 182px;
+  left: 214px;
+  top: 33px;
+  border-radius: 0px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 0px;
+  gap: 12px;
+
+  position: absolute;
+  left: 54.04%;
+  right: 0%;
+  top: 66.67%;
+  bottom: 1.01%;
+}
+
+.ruli {
+  position: absolute;
+  height: 14px;
+  width: 14px;
+  left: 1px;
+  top: 2px;
+  border-radius: 0px;
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+}
+
+.d {
+  position: absolute;
+  height: 13px;
+  width: 154px;
+  left: 28px;
+  top: 1.5px;
+  border-radius: nullpx;
+  font-family: TBC Sailec;
+  font-size: 12px;
+  font-weight: 500;
+  line-height: 12px;
+  letter-spacing: 0px;
+  text-align: left;
+  width: 154px;
+  height: 13px;
+
+  font-family: "TBC Sailec";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 12px;
+  line-height: 12px;
+  display: flex;
+  align-items: flex-end;
+
+  /* text/black 900 */
+
+  color: #1b1d25;
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 1;
+  flex-grow: 0;
+}
+
+.threeIcons {
+  position: absolute;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  align-items: center;
+  padding: 0px;
+  gap: 16px;
+
+  height: 16px;
+  width: 80px;
+  left: 684px;
+  top: 138px;
+  border-radius: 0px;
+}
+
+.vip-view-date {
+  position: absolute;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 0px;
+  gap: 16px;
+
+  height: 20px;
+  width: 182px;
+  left: 210px;
+  top: 136px;
+  border-radius: 0px;
+}
+
+.view-dot-date {
+  position: absolute;
+  left: 57px;
+  top: 6px;
+  border-radius: 0px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 0px;
+  gap: 4px;
+
+  width: 134px;
+  height: 14px;
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 1;
+  flex-grow: 0;
+}
+
+.views {
+  position: absolute;
+  font-family: Helvetica Neue LT GEO;
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 14px;
+  letter-spacing: 0px;
+  text-align: left;
+  width: auto;
+  height: 14px;
+  top: -7.5px;
+
+  font-family: "Helvetica Neue LT GEO";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 14px;
+
+  /* text/black 600 */
+
+  color: #6f7383;
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+}
+
+.dot {
+  position: absolute;
+  height: 3px;
+  width: 3px;
+  left: 63px;
+  top: -1.5px;
+  border-radius: 0px;
+  background: #8c929b;
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 1;
+  flex-grow: 0;
+}
+
+.date {
+  position: absolute;
+  height: 14px;
+  width: 120px;
+  left: 73px;
+  top: -7px;
+  border-radius: nullpx;
+  font-family: "Helvetica Neue LT GEO";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 14px;
+
+  /* text/black 600 */
+
+  color: #6f7383;
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 2;
+  flex-grow: 0;
+}
+
+.pricebox {
+  height: 24px;
+  width: 98px;
+  left: 666px;
+  top: 54px;
+  border-radius: 0px;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  align-items: flex-end;
+  padding: 0px;
+  gap: 4px;
+
+  position: absolute;
+  width: 98px;
+  right: 16px;
+}
+
+.price {
+  position: absolute;
+  height: 20px;
+  width: 68px;
+  left: 0px;
+  top: 2px;
+  border-radius: nullpx;
+  font-family: "TBC Sailec";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 20px;
+  /* identical to box height */
+
+  text-align: right;
+
+  /* text/black 800 */
+
+  color: #272a37;
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+}
+
+.ganbajeba-drosha-qveyana {
+  border-radius: 0px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 0px;
+  gap: 16px;
+
+  position: absolute;
+  height: 16px;
+  width: 180px;
+  left: 584px;
+  right: 16px;
+  top: 16px;
+  bottom: 86.27%;
+}
+
+.flag {
+  height: 15.997956275939941px;
+  border-radius: 0px;
+  position: absolute;
+  width: 16px;
+  height: 16px;
+  left: 93px;
+  top: -6px;
+}
+
+.location {
+  position: absolute;
+  height: 14px;
+  width: 95px;
+  left: 700px;
+  top: 17px;
+  border-radius: nullpx;
+  font-family: "Helvetica";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 14px;
+  /* identical to box height */
+
+  /* secondary/black 600 */
+
+  color: #6f7383;
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 1;
+  flex-grow: 0;
+}
+.row {
+  height: 172px;
+  width: 780px;
+  margin-bottom: 1%;
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+}
+
+.ganbajeba-ganbajebisfasi-false {
+  position: absolute;
+  height: 13px;
+  width: 100px;
+  left: -8px;
+  top: 1.5px;
+  border-radius: 0px;
+
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0px;
+  gap: 4px;
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+}
+
+.ganbajeba-false {
+  position: absolute;
+  font-family: TBC Sailec;
+  font-size: 11px;
+  font-weight: 500;
+  line-height: 13px;
+  letter-spacing: 0px;
+  text-align: left;
+
+  width: 58px;
+  height: 13px;
+
+  font-family: "TBC Sailec";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 11px;
+  line-height: 13px;
+  /* identical to box height, or 118% */
+
+  /* error/red 800 */
+
+  color: #ff3b30;
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+}
+
+.ganbajebisfasi-false {
+  position: absolute;
+  font-family: Helvetica Neue;
+  font-size: 11px;
+  font-weight: 500;
+  line-height: 13px;
+  letter-spacing: 0px;
+  text-align: left;
+  width: 50px;
+  height: 13px;
+
+  font-family: "Helvetica Neue";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 11px;
+  line-height: 13px;
+  /* identical to box height, or 118% */
+
+  /* error/red 800 */
+
+  color: #ff3b30;
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 1;
+  flex-grow: 0;
+}
+
+.ganbajeba-true {
+  position: absolute;
+  height: 11px;
+  width: 77px;
+  left: 10px;
+  top: 2px;
+  border-radius: nullpx;
+  position: absolute;
+
+  font-family: "TBC Sailec";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 11px;
+  line-height: 11px;
+  /* identical to box height */
+
+  /* secondary/green 300 */
+
+  color: #26b753;
+}
+
+.checked {
+  left: -8px;
+  position: absolute;
+  bottom: 0px;
+}
+
+.pages {
+  background-color: #ffffff !important;
+  position: absolute;
+  left: 725px;
+  top: 1254px;
+  width: 780px;
+}
+.Frame33744 {
+  height: auto;
+  width: auto;
+  left: 705px;
+  top: 148px;
+  border-radius: 0px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0px;
+  gap: 16px;
+  position: relative;
+}
+
+.Group33738 {
+  border: 1px solid #e9e9f0;
+  height: 40px;
+  width: 780px;
+  left: 0px;
+  top: 0px;
+  border-radius: 8px;
+}

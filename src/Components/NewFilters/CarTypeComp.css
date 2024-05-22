@@ -1,0 +1,39 @@
+.Car,
+.Traqtori,
+.Moto {
+  background: #f9f9fb;
+  border: 1px solid rgba(226, 229, 235, 1);
+  height: 48px;
+  width: 84px;
+}
+
+.Car:focus,
+.Traqtori:focus,
+.Moto:focus {
+  border-bottom-color: #fd4100;
+}
+.Car {
+  border-radius: 11px 0px 0px 0px;
+}
+
+.Moto {
+  border-radius: 0px 11px 0px 0px;
+}
+
+.cartegoryy {
+  justify-content: space-around;
+  position: absolute;
+  width: 250px;
+  height: 48px;
+  left: 435px;
+  top: 149px;
+
+  background: #f9f9fb;
+  border-radius: 11px 11px 0px 0px;
+
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+
+  overflow: hidden;
+}

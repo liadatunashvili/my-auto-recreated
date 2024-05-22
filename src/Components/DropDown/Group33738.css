@@ -1,0 +1,96 @@
+.Group33738 {
+  position: absolute;
+  height: 40px;
+  width: 780px;
+  left: 697px;
+  top: 150px;
+  border-radius: 8px;
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+  border: none !important;
+}
+.gancxadebebisraodenoba {
+  font-family: Helvetica Neue LT GEO;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 19px;
+  letter-spacing: 0px;
+  text-align: left;
+
+  position: absolute;
+  width: 150px;
+  height: 20px;
+  top: 9px;
+  left: 0px;
+
+  font-family: "Helvetica Neue LT GEO";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 19px;
+}
+
+.filterMethod {
+  height: 40px;
+  width: 170px !important;
+  left: 400px !important;
+  top: 0px;
+  border-radius: 8px;
+  padding: 8px 8px 8px 12px;
+  background: linear-gradient(0deg, #e9e9f0, #e9e9f0),
+    linear-gradient(0deg, #ffffff, #ffffff);
+  box-sizing: border-box;
+
+  /* Auto layout */
+
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding: 8px 8px 8px 12px;
+  gap: 4px;
+
+  position: absolute;
+  width: 140px;
+  height: 40px;
+  left: 435px;
+  top: 0px;
+
+  background: #ffffff;
+
+  border: 1px solid #e9e9f0;
+  border-radius: 8px;
+}
+
+.sortMethod {
+  border-radius: 8px;
+  padding: 8px 8px 8px 12px;
+  background: linear-gradient(0deg, #e9e9f0, #e9e9f0),
+    linear-gradient(0deg, #ffffff, #ffffff);
+  border: 1px solid #e9e9f0;
+  box-sizing: border-box;
+
+  /* Auto layout */
+
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding: 8px 8px 8px 12px;
+  gap: 4px;
+
+  position: absolute;
+  width: 195px;
+  height: 40px;
+  right: 0px;
+  top: 0px;
+
+  /* primary/white */
+
+  background: #ffffff;
+  /* border/gray 100 */
+
+  border: 1px solid #e9e9f0;
+  border-radius: 8px;
+}

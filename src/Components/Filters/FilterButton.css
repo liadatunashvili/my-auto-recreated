@@ -1,0 +1,77 @@
+.filtrisghilaki {
+  position: absolute;
+  height: 68px;
+  width: 248px;
+  left: 435px;
+  top: 620px;
+  border-radius: 0px;
+}
+.filtrisghilaki:hover .search {
+  filter: brightness(0.8);
+}
+
+.primary-icon {
+  height: 32px;
+  width: 202px;
+  border-radius: 6px;
+  padding: 8px 76px 8px 76px;
+
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding: 8px 76px;
+  gap: 4px;
+
+  position: absolute;
+  left: 9.27%;
+  right: 9.27%;
+  top: 23.53%;
+  bottom: 29.41%;
+
+  /* primary/orange 800 */
+
+  background: #fd4100;
+  border-radius: 6px;
+}
+
+.search {
+  left: 65.49993896484375px;
+  top: 8px;
+  border-radius: 0px;
+  padding: 6px;
+
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding: 6px;
+  gap: 10px;
+
+  /* display: none; */
+  height: 32px;
+  width: 202px;
+  background: #fd4100;
+  border-radius: 6px;
+  border: none;
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+}
+
+.Rectangle13 {
+  height: 68px;
+  width: 250px;
+  right: 0%;
+  left: 0px;
+  top: 0px;
+  bottom: 0%;
+  border-radius: 0px;
+  background: #ffffff;
+  box-shadow: 0px 2px 16px 0px #272a3721;
+  border-left: 1px solid rgba(226, 229, 235, 1);
+  border-right: 1px solid rgba(226, 229, 235, 1);
+}
